@@ -12,8 +12,20 @@
 ###### Max Zoom, Palette 3, 384 iterations
 ![Max Zoom, Palette 3, 384 iterations](https://cdn.discordapp.com/attachments/592441902981447710/790751439877308426/unknown.png)
 
-###### Max Zoom, Palette 3, 384 iterations
-![Max Zoom, Palette 3, 384 iterations](https://cdn.discordapp.com/attachments/592441902981447710/790752260031905802/unknown.png)
+###### Max Zoom, Palette 3, 768 iterations
+![Max Zoom, Palette 3, 768 iterations](https://cdn.discordapp.com/attachments/592441902981447710/790752260031905802/unknown.png)
+
+###### Now Zooming out 8x and reducing the iterations to 384
+![-8x, Palette 3, 384 iterations](https://cdn.discordapp.com/attachments/592441902981447710/790752885696495616/unknown.png)
+
+###### Now Zooming out 8x and reducing the iterations to 384
+![-8x, Palette 3, 384 iterations](https://cdn.discordapp.com/attachments/592441902981447710/790752885696495616/unknown.png)
+
+###### Now Zooming out 8x again and reducing the iterations to 192
+![-16x, Palette 3, 192 iterations](https://cdn.discordapp.com/attachments/592441902981447710/790753467743862824/unknown.png)
+
+
+
 
 
 
