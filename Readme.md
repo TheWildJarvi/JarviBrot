@@ -1,3 +1,5 @@
+# CIRCUIT READ ME
+	
 	Download the 'Jarvibrot.7z' folder.
 	Unzip it.
 	Launch display.dig in digital
@@ -15,3 +17,19 @@
 	
 	You can select the amount of iterations(0=96, 1=192, 2=384, 3=768)
 	You can select 4 Different color palettes.
+
+# FIXED POINT SCRIPT READ ME
+
+	install fxpmath
+	run script
+	enter fixed point notation format to convert to
+	enter value to convert
+	
+# RGB ROM GENERATOR SCRIPT
+	
+	install fxpmath
+	edit filename to your choosing
+	edit the 'maxval' variable to whatever you want
+	change the 'colors' however you want.
+	run the script
+	
