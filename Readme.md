@@ -1,4 +1,5 @@
-Download the 'Jarvibrot' folder.
+Download the 'Jarvibrot.7z' folder.
+Unzip it
 Launch display.dig in digital
 Start the simulation
 Enable the unit.
