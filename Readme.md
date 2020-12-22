@@ -29,7 +29,7 @@
 	enter fixed point notation format to convert to
 	enter value to convert
 	
-# RGB ROM GENERATOR SCRIPT
+# RGB ROM GENERATOR SCRIPT READ ME
 	
 	install fxpmath
 	edit filename to your choosing
