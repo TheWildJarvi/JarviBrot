@@ -1,3 +1,5 @@
+##### 1024x768
+
 # CIRCUIT READ ME
 
 	circuit runs using this sim: https://github.com/hneemann/Digital
