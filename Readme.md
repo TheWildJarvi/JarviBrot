@@ -1,4 +1,6 @@
 # CIRCUIT READ ME
+
+	circuit runs using this sim: https://github.com/hneemann/Digital
 	
 	Download the 'Jarvibrot.7z' folder.
 	Unzip it.
