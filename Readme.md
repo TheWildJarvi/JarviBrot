@@ -1,7 +1,7 @@
-##### 1024x768
+
 
 # CIRCUIT READ ME
-
+	##### 1024x768 resolution
 	circuit runs using this sim: https://github.com/hneemann/Digital
 	
 	Download the 'Jarvibrot.7z' folder.
