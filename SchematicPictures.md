@@ -4,11 +4,8 @@
 ###### Divergent/Iterate Loop
 ![Divergent Loop](https://cdn.discordapp.com/attachments/722230018142371840/831181463876665414/unknown.png)
 
-###### Screen Map
-![Screen Mapping](https://cdn.discordapp.com/attachments/722230018142371840/831181543296073808/unknown.png)
-
 ###### Generation Sub-Unit inside the Screenmap
-![Generation Sub-Unit inside the Screenmap](https://cdn.discordapp.com/attachments/722230018142371840/831181543296073808/unknown.png)
+![Generation Sub-Unit inside the Divergent/Iterate Loop](https://cdn.discordapp.com/attachments/722230018142371840/831181543296073808/unknown.png)
 
 ###### 1024x768 Screen unit
 ![1024x768 Screen unit](https://cdn.discordapp.com/attachments/722230018142371840/831181595540062238/unknown.png)
